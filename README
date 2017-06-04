@@ -1,0 +1,73 @@
+
+Employee Contribution Factor (ECF)
+Created by Kunal Shah and Snehal Patel
+June 4, 2017
+
+SOFTWARE AND SERVICES
+-
+Text Editor: Atom.io
+https://atom.io/
+
+Front End: TheSaaS HTML Template Regular License
+https://themeforest.net/item/thesaas-responsive-bootstrap-saas-software-webapp-template/19778599
+
+Back End: Flask Python Microframework
+http://flask.pocoo.org/
+
+Version Control: Github
+
+
+RESOURCES
+Python Web development
+http://python-guide-pt-br.readthedocs.io/en/latest/scenarios/web/
+
+
+
+
+NOTES
+-
+domain name sublimewebsolutions.com ➝ ecf
+
+you don't want to build just to sell
+
+stores sell razors for dirt cheap, and then you buy blades that you keep buying after that.
+price it in a way that is convenient, but generates constant revenue.
+
+Simple human resources employee rating system.
+There are a lot of rating systems out there, but a simple one is more intuitive. The feedback is that it is really good.
+
+It's simple math, but it needed a great front end.
+
+It's a rating system that would cost about $50 a month.
+
+———————————
+The Excel application
+A great employee
+ECF - employee contribution factor
+there are plenty of engineers, a great employee is far more than that.
+1. Team Tasks
+What are the core tasks that an employee is supposed to do? simple rating 1-5, and a weight
+
+2. CSAT
+central score of 3
+a recommendation from any customers increases CSE rating, a negative review decrements it.
+default is 5, limits are 1-5.
+This is worth 10%
+
+3. Training Objectives - 10%
+
+4. Code of Conduct - 30%
+
+Summary:
+Team
+
+This is all housed online. Employees have access to their own ratings. Someone can see if they have been dinged by not following federal regulations. This way they can see what was held against them and inquire why. They will have a chance to explain or defend themselves, or improve their behavior and performance. ''
+
+There is a master plot for a manager to look at the strengths and weaknesses of every member of their team.
+Employees can see in real time at the end of every month their own evaluations.
+
+The only variable facet of this application is the list of responsibility under tasks. Everything else is a constant.
+
+——-
+provide a number of template for common industries — customer service, banking, accounting, HR, support services (IT), development, pharmacidical.
+—
